@@ -1,1 +1,21 @@
 
+=== Patient Manager Test Run at 2025-03-31 00:58:57 ===
+✅ Test Case 1 Passed: Create Patient DataFrame | Result=Shape=(2, 5)
+✅ Test Case 2 Passed: Fetch Top 1 Bill | Result=First patient_id=101
+✅ Test Case 3 Passed: Stay Duration Categorization | Result=Stay Category present
+✅ Test Case 4 Passed: High Billing Patients (Hidden) | Result=[101]
+❌ Test Case 5 Failed: Edge Stay Duration Categorization (Hidden) | Result=['Short Stay', 'Normal Stay']
+
+=== Patient Manager Test Run at 2025-03-31 01:02:09 ===
+✅ Test Case 1 Passed: Create Patient DataFrame | Result=Shape=(2, 5)
+✅ Test Case 2 Passed: Fetch Top 1 Bill | Result=First patient_id=101
+✅ Test Case 3 Passed: Stay Duration Categorization | Result=Stay Category present
+✅ Test Case 4 Passed: High Billing Patients (Hidden) | Result=[101]
+❌ Test Case 5 Failed: Edge Stay Duration Categorization (Hidden) | Result=['Short Stay', 'Normal Stay']
+
+=== Patient Manager Test Run at 2025-03-31 01:04:23 ===
+✅ Test Case 1 Passed: Create Patient DataFrame | Result=Shape=(2, 5)
+✅ Test Case 2 Passed: Fetch Top 1 Bill | Result=First patient_id=101
+✅ Test Case 3 Passed: Stay Duration Categorization | Result=Stay Category present
+✅ Test Case 4 Passed: High Billing Patients (Hidden) | Result=[101]
+❌ Test Case 5 Failed: Edge Stay Duration Categorization (Hidden) | Result=['Short Stay', 'Normal Stay']
